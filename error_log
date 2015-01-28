@@ -1,0 +1,862 @@
+[23-Jan-2014 04:48:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/quizidvd/public_html/quizzitch/online/sql.php on line 3
+[28-Jan-2014 05:44:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 3
+[28-Jan-2014 05:44:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 3
+[28-Jan-2014 05:45:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 3
+[28-Jan-2014 05:45:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 3
+[28-Jan-2014 06:28:06] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[28-Jan-2014 06:28:49] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[28-Jan-2014 06:44:16] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[28-Jan-2014 07:04:19] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[28-Jan-2014 07:38:53] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[28-Jan-2014 08:14:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 4
+[29-Jan-2014 03:10:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/check_user.php on line 22
+[29-Jan-2014 03:35:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 126
+[29-Jan-2014 03:36:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 126
+[29-Jan-2014 04:19:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 07:26:51] CSRF state token does not match one provided.
+[29-Jan-2014 07:53:12] CSRF state token does not match one provided.
+[29-Jan-2014 07:53:24] CSRF state token does not match one provided.
+[29-Jan-2014 08:10:22] OAuthException
+[29-Jan-2014 08:10:22] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 08:16:00] CSRF state token does not match one provided.
+[29-Jan-2014 08:17:46] CSRF state token does not match one provided.
+[29-Jan-2014 08:17:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 113
+[29-Jan-2014 08:17:57] CSRF state token does not match one provided.
+[29-Jan-2014 08:17:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/index.php on line 113
+[29-Jan-2014 08:20:07] CSRF state token does not match one provided.
+[29-Jan-2014 08:20:19] CSRF state token does not match one provided.
+[29-Jan-2014 08:21:02] CSRF state token does not match one provided.
+[29-Jan-2014 08:21:21] CSRF state token does not match one provided.
+[29-Jan-2014 08:23:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:23:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:24:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:25:50] CSRF state token does not match one provided.
+[29-Jan-2014 08:26:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:26:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:26:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:36:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 4
+[29-Jan-2014 08:36:29] CSRF state token does not match one provided.
+[29-Jan-2014 09:12:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 3
+[29-Jan-2014 09:26:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 3
+[29-Jan-2014 09:28:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 3
+[29-Jan-2014 09:30:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/quizidvd/public_html/quizzitch/online/sql.php:2) in /home/quizidvd/public_html/quizzitch/online/answer.php on line 3
+[29-Jan-2014 10:05:45] CSRF state token does not match one provided.
+[29-Jan-2014 13:56:11] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/quizidvd/public_html/quizzitch/online/start.php on line 93
+[29-Jan-2014 13:56:48] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/quizidvd/public_html/quizzitch/online/start.php on line 93
+[29-Jan-2014 14:40:14] OAuthException
+[29-Jan-2014 14:40:14] Error validating access token: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
+[29-Jan-2014 14:59:13] CSRF state token does not match one provided.
+[29-Jan-2014 15:00:09] CSRF state token does not match one provided.
+[29-Jan-2014 15:30:23] OAuthException
+[29-Jan-2014 15:30:23] An unexpected error has occurred. Please retry your request later.
+[29-Jan-2014 15:31:23] CSRF state token does not match one provided.
+[29-Jan-2014 15:37:21] OAuthException
+[29-Jan-2014 15:37:21] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 15:38:55] CSRF state token does not match one provided.
+[29-Jan-2014 15:42:16] CSRF state token does not match one provided.
+[29-Jan-2014 15:44:32] OAuthException
+[29-Jan-2014 15:44:32] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 15:50:24] CSRF state token does not match one provided.
+[29-Jan-2014 15:51:28] CSRF state token does not match one provided.
+[29-Jan-2014 15:51:36] CSRF state token does not match one provided.
+[29-Jan-2014 15:52:07] CSRF state token does not match one provided.
+[29-Jan-2014 15:52:35] CSRF state token does not match one provided.
+[29-Jan-2014 15:52:56] CSRF state token does not match one provided.
+[29-Jan-2014 15:53:17] CSRF state token does not match one provided.
+[29-Jan-2014 15:53:33] CSRF state token does not match one provided.
+[29-Jan-2014 15:53:51] CSRF state token does not match one provided.
+[29-Jan-2014 15:54:10] CSRF state token does not match one provided.
+[29-Jan-2014 15:54:22] CSRF state token does not match one provided.
+[29-Jan-2014 15:54:30] CSRF state token does not match one provided.
+[29-Jan-2014 16:09:08] OAuthException
+[29-Jan-2014 16:09:08] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 16:14:24] OAuthException
+[29-Jan-2014 16:14:24] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 16:33:05] CSRF state token does not match one provided.
+[29-Jan-2014 16:33:42] CSRF state token does not match one provided.
+[29-Jan-2014 16:45:23] CSRF state token does not match one provided.
+[29-Jan-2014 16:46:50] OAuthException
+[29-Jan-2014 16:46:50] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 16:47:51] CSRF state token does not match one provided.
+[29-Jan-2014 16:47:52] OAuthException
+[29-Jan-2014 16:47:52] (#200) The user hasn't authorized the application to perform this action
+[29-Jan-2014 16:52:54] CSRF state token does not match one provided.
+[29-Jan-2014 16:55:55] CSRF state token does not match one provided.
+[29-Jan-2014 17:01:33] CSRF state token does not match one provided.
+[29-Jan-2014 17:07:22] CSRF state token does not match one provided.
+[29-Jan-2014 17:12:07] OAuthException
+[29-Jan-2014 17:12:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:12:22] OAuthException
+[29-Jan-2014 17:12:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:12:33] OAuthException
+[29-Jan-2014 17:12:33] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:12:36] OAuthException
+[29-Jan-2014 17:12:36] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:12:52] OAuthException
+[29-Jan-2014 17:12:52] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:12:56] OAuthException
+[29-Jan-2014 17:12:56] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:05] OAuthException
+[29-Jan-2014 17:13:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:11] OAuthException
+[29-Jan-2014 17:13:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:19] OAuthException
+[29-Jan-2014 17:13:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:24] OAuthException
+[29-Jan-2014 17:13:24] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:34] OAuthException
+[29-Jan-2014 17:13:34] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:38] OAuthException
+[29-Jan-2014 17:13:38] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:40] OAuthException
+[29-Jan-2014 17:13:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:44] OAuthException
+[29-Jan-2014 17:13:44] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:50] OAuthException
+[29-Jan-2014 17:13:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:53] OAuthException
+[29-Jan-2014 17:13:53] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:54] OAuthException
+[29-Jan-2014 17:13:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:54] CSRF state token does not match one provided.
+[29-Jan-2014 17:13:55] OAuthException
+[29-Jan-2014 17:13:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:58] OAuthException
+[29-Jan-2014 17:13:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:13:59] OAuthException
+[29-Jan-2014 17:13:59] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:13] OAuthException
+[29-Jan-2014 17:14:13] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:22] OAuthException
+[29-Jan-2014 17:14:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:34] OAuthException
+[29-Jan-2014 17:14:34] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:44] OAuthException
+[29-Jan-2014 17:14:44] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:50] OAuthException
+[29-Jan-2014 17:14:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:55] OAuthException
+[29-Jan-2014 17:14:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:14:59] OAuthException
+[29-Jan-2014 17:14:59] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:15:03] OAuthException
+[29-Jan-2014 17:15:03] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:15:15] OAuthException
+[29-Jan-2014 17:15:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:15:18] OAuthException
+[29-Jan-2014 17:15:18] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:15:28] OAuthException
+[29-Jan-2014 17:15:28] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:10] OAuthException
+[29-Jan-2014 17:16:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:11] OAuthException
+[29-Jan-2014 17:16:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:18] OAuthException
+[29-Jan-2014 17:16:18] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:24] OAuthException
+[29-Jan-2014 17:16:24] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:26] OAuthException
+[29-Jan-2014 17:16:26] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:32] OAuthException
+[29-Jan-2014 17:16:32] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:35] OAuthException
+[29-Jan-2014 17:16:35] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:38] OAuthException
+[29-Jan-2014 17:16:38] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:43] OAuthException
+[29-Jan-2014 17:16:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:49] OAuthException
+[29-Jan-2014 17:16:49] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:55] OAuthException
+[29-Jan-2014 17:16:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:16:55] OAuthException
+[29-Jan-2014 17:16:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:17:08] CSRF state token does not match one provided.
+[29-Jan-2014 17:17:09] OAuthException
+[29-Jan-2014 17:17:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:17:09] OAuthException
+[29-Jan-2014 17:17:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:17:15] OAuthException
+[29-Jan-2014 17:17:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:17:17] OAuthException
+[29-Jan-2014 17:17:17] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:17:20] OAuthException
+[29-Jan-2014 17:17:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:18:04] OAuthException
+[29-Jan-2014 17:18:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:18:19] OAuthException
+[29-Jan-2014 17:18:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:18:46] OAuthException
+[29-Jan-2014 17:18:46] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:18:55] OAuthException
+[29-Jan-2014 17:18:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:05] OAuthException
+[29-Jan-2014 17:19:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:10] OAuthException
+[29-Jan-2014 17:19:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:10] OAuthException
+[29-Jan-2014 17:19:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:11] CSRF state token does not match one provided.
+[29-Jan-2014 17:19:12] OAuthException
+[29-Jan-2014 17:19:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:19] OAuthException
+[29-Jan-2014 17:19:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:19] OAuthException
+[29-Jan-2014 17:19:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:22] OAuthException
+[29-Jan-2014 17:19:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:25] OAuthException
+[29-Jan-2014 17:19:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:29] OAuthException
+[29-Jan-2014 17:19:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:35] OAuthException
+[29-Jan-2014 17:19:35] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:36] CSRF state token does not match one provided.
+[29-Jan-2014 17:19:37] OAuthException
+[29-Jan-2014 17:19:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:40] OAuthException
+[29-Jan-2014 17:19:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:45] OAuthException
+[29-Jan-2014 17:19:45] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:47] OAuthException
+[29-Jan-2014 17:19:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:58] OAuthException
+[29-Jan-2014 17:19:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:19:59] OAuthException
+[29-Jan-2014 17:19:59] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:12] OAuthException
+[29-Jan-2014 17:20:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:41] OAuthException
+[29-Jan-2014 17:20:41] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:43] OAuthException
+[29-Jan-2014 17:20:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:46] OAuthException
+[29-Jan-2014 17:20:46] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:47] OAuthException
+[29-Jan-2014 17:20:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:49] CSRF state token does not match one provided.
+[29-Jan-2014 17:20:49] OAuthException
+[29-Jan-2014 17:20:49] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:50] CSRF state token does not match one provided.
+[29-Jan-2014 17:20:51] OAuthException
+[29-Jan-2014 17:20:51] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:20:52] OAuthException
+[29-Jan-2014 17:20:52] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:11] CSRF state token does not match one provided.
+[29-Jan-2014 17:21:12] OAuthException
+[29-Jan-2014 17:21:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:15] OAuthException
+[29-Jan-2014 17:21:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:17] OAuthException
+[29-Jan-2014 17:21:17] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:22] OAuthException
+[29-Jan-2014 17:21:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:30] OAuthException
+[29-Jan-2014 17:21:30] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:38] OAuthException
+[29-Jan-2014 17:21:38] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:40] OAuthException
+[29-Jan-2014 17:21:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:41] OAuthException
+[29-Jan-2014 17:21:41] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:43] OAuthException
+[29-Jan-2014 17:21:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:21:46] OAuthException
+[29-Jan-2014 17:21:46] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:22:05] CSRF state token does not match one provided.
+[29-Jan-2014 17:22:06] OAuthException
+[29-Jan-2014 17:22:06] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:22:11] OAuthException
+[29-Jan-2014 17:22:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:22:25] OAuthException
+[29-Jan-2014 17:22:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:22:25] CSRF state token does not match one provided.
+[29-Jan-2014 17:22:26] OAuthException
+[29-Jan-2014 17:22:26] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:23:16] OAuthException
+[29-Jan-2014 17:23:16] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:23:18] CSRF state token does not match one provided.
+[29-Jan-2014 17:23:19] OAuthException
+[29-Jan-2014 17:23:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:23:21] OAuthException
+[29-Jan-2014 17:23:21] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:23:25] OAuthException
+[29-Jan-2014 17:23:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:23:34] CSRF state token does not match one provided.
+[29-Jan-2014 17:23:35] OAuthException
+[29-Jan-2014 17:23:35] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:24:30] OAuthException
+[29-Jan-2014 17:24:30] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:24:39] OAuthException
+[29-Jan-2014 17:24:39] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:25:33] OAuthException
+[29-Jan-2014 17:25:33] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:12] OAuthException
+[29-Jan-2014 17:26:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:12] CSRF state token does not match one provided.
+[29-Jan-2014 17:26:13] OAuthException
+[29-Jan-2014 17:26:13] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:18] OAuthException
+[29-Jan-2014 17:26:18] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:38] OAuthException
+[29-Jan-2014 17:26:38] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:39] OAuthException
+[29-Jan-2014 17:26:39] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:26:45] OAuthException
+[29-Jan-2014 17:26:45] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:27:13] OAuthException
+[29-Jan-2014 17:27:13] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:27:19] CSRF state token does not match one provided.
+[29-Jan-2014 17:27:20] OAuthException
+[29-Jan-2014 17:27:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:27:23] OAuthException
+[29-Jan-2014 17:27:23] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:27:30] OAuthException
+[29-Jan-2014 17:27:30] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:27:50] OAuthException
+[29-Jan-2014 17:27:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:00] OAuthException
+[29-Jan-2014 17:28:00] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:05] OAuthException
+[29-Jan-2014 17:28:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:08] OAuthException
+[29-Jan-2014 17:28:08] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:14] OAuthException
+[29-Jan-2014 17:28:14] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:15] CSRF state token does not match one provided.
+[29-Jan-2014 17:28:15] OAuthException
+[29-Jan-2014 17:28:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:19] OAuthException
+[29-Jan-2014 17:28:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:28:52] CSRF state token does not match one provided.
+[29-Jan-2014 17:29:10] OAuthException
+[29-Jan-2014 17:29:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:29:25] OAuthException
+[29-Jan-2014 17:29:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:29:30] OAuthException
+[29-Jan-2014 17:29:30] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:30:03] OAuthException
+[29-Jan-2014 17:30:03] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:30:09] OAuthException
+[29-Jan-2014 17:30:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:30:28] OAuthException
+[29-Jan-2014 17:30:28] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:30:34] OAuthException
+[29-Jan-2014 17:30:34] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:31:32] OAuthException
+[29-Jan-2014 17:31:32] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:31:40] OAuthException
+[29-Jan-2014 17:31:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:31:50] OAuthException
+[29-Jan-2014 17:31:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:31:57] OAuthException
+[29-Jan-2014 17:31:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:31:58] OAuthException
+[29-Jan-2014 17:31:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:01] OAuthException
+[29-Jan-2014 17:32:01] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:04] OAuthException
+[29-Jan-2014 17:32:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:13] OAuthException
+[29-Jan-2014 17:32:13] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:15] OAuthException
+[29-Jan-2014 17:32:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:53] OAuthException
+[29-Jan-2014 17:32:53] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:32:57] OAuthException
+[29-Jan-2014 17:32:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:33:15] CSRF state token does not match one provided.
+[29-Jan-2014 17:33:16] OAuthException
+[29-Jan-2014 17:33:16] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:33:24] OAuthException
+[29-Jan-2014 17:33:24] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:33:35] OAuthException
+[29-Jan-2014 17:33:35] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:33:43] OAuthException
+[29-Jan-2014 17:33:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:33:55] OAuthException
+[29-Jan-2014 17:33:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:03] OAuthException
+[29-Jan-2014 17:34:03] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:09] OAuthException
+[29-Jan-2014 17:34:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:17] OAuthException
+[29-Jan-2014 17:34:17] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:25] OAuthException
+[29-Jan-2014 17:34:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:29] OAuthException
+[29-Jan-2014 17:34:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:30] CSRF state token does not match one provided.
+[29-Jan-2014 17:34:31] OAuthException
+[29-Jan-2014 17:34:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:42] OAuthException
+[29-Jan-2014 17:34:42] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:34:47] OAuthException
+[29-Jan-2014 17:34:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:10] OAuthException
+[29-Jan-2014 17:35:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:13] OAuthException
+[29-Jan-2014 17:35:13] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:16] OAuthException
+[29-Jan-2014 17:35:16] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:21] OAuthException
+[29-Jan-2014 17:35:21] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:33] OAuthException
+[29-Jan-2014 17:35:33] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:50] OAuthException
+[29-Jan-2014 17:35:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:57] OAuthException
+[29-Jan-2014 17:35:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:35:58] OAuthException
+[29-Jan-2014 17:35:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:02] OAuthException
+[29-Jan-2014 17:36:02] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:07] OAuthException
+[29-Jan-2014 17:36:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:08] OAuthException
+[29-Jan-2014 17:36:08] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:09] OAuthException
+[29-Jan-2014 17:36:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:15] OAuthException
+[29-Jan-2014 17:36:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:16] OAuthException
+[29-Jan-2014 17:36:16] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:20] OAuthException
+[29-Jan-2014 17:36:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:23] OAuthException
+[29-Jan-2014 17:36:23] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:36] OAuthException
+[29-Jan-2014 17:36:36] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:36:55] OAuthException
+[29-Jan-2014 17:36:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:01] OAuthException
+[29-Jan-2014 17:37:01] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:04] OAuthException
+[29-Jan-2014 17:37:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:11] OAuthException
+[29-Jan-2014 17:37:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:43] OAuthException
+[29-Jan-2014 17:37:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:51] OAuthException
+[29-Jan-2014 17:37:51] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:54] OAuthException
+[29-Jan-2014 17:37:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:37:58] OAuthException
+[29-Jan-2014 17:37:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:38:09] OAuthException
+[29-Jan-2014 17:38:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:38:10] OAuthException
+[29-Jan-2014 17:38:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:38:16] OAuthException
+[29-Jan-2014 17:38:16] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:38:33] CSRF state token does not match one provided.
+[29-Jan-2014 17:38:52] OAuthException
+[29-Jan-2014 17:38:52] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:38:58] OAuthException
+[29-Jan-2014 17:38:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:39:11] OAuthException
+[29-Jan-2014 17:39:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:39:29] OAuthException
+[29-Jan-2014 17:39:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:39:41] OAuthException
+[29-Jan-2014 17:39:41] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:39:42] OAuthException
+[29-Jan-2014 17:39:42] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:39:59] OAuthException
+[29-Jan-2014 17:39:59] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:04] OAuthException
+[29-Jan-2014 17:40:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:04] OAuthException
+[29-Jan-2014 17:40:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:09] OAuthException
+[29-Jan-2014 17:40:09] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:27] OAuthException
+[29-Jan-2014 17:40:27] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:31] OAuthException
+[29-Jan-2014 17:40:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:33] OAuthException
+[29-Jan-2014 17:40:33] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:37] OAuthException
+[29-Jan-2014 17:40:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:40] OAuthException
+[29-Jan-2014 17:40:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:40:47] OAuthException
+[29-Jan-2014 17:40:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:41:05] OAuthException
+[29-Jan-2014 17:41:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:41:20] OAuthException
+[29-Jan-2014 17:41:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:41:24] OAuthException
+[29-Jan-2014 17:41:24] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:41:31] OAuthException
+[29-Jan-2014 17:41:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:41:51] OAuthException
+[29-Jan-2014 17:41:51] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:42:11] OAuthException
+[29-Jan-2014 17:42:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:42:37] OAuthException
+[29-Jan-2014 17:42:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:42:42] OAuthException
+[29-Jan-2014 17:42:42] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:42:50] OAuthException
+[29-Jan-2014 17:42:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:43:01] OAuthException
+[29-Jan-2014 17:43:01] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:43:07] OAuthException
+[29-Jan-2014 17:43:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:43:07] OAuthException
+[29-Jan-2014 17:43:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:43:25] OAuthException
+[29-Jan-2014 17:43:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:43:37] OAuthException
+[29-Jan-2014 17:43:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:44:25] OAuthException
+[29-Jan-2014 17:44:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:44:54] OAuthException
+[29-Jan-2014 17:44:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:44:56] OAuthException
+[29-Jan-2014 17:44:56] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:45:09] CSRF state token does not match one provided.
+[29-Jan-2014 17:45:10] OAuthException
+[29-Jan-2014 17:45:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:45:33] CSRF state token does not match one provided.
+[29-Jan-2014 17:45:34] OAuthException
+[29-Jan-2014 17:45:34] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:45:42] CSRF state token does not match one provided.
+[29-Jan-2014 17:45:46] OAuthException
+[29-Jan-2014 17:45:46] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:45:56] CSRF state token does not match one provided.
+[29-Jan-2014 17:45:58] OAuthException
+[29-Jan-2014 17:45:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:01] OAuthException
+[29-Jan-2014 17:46:01] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:04] OAuthException
+[29-Jan-2014 17:46:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:05] OAuthException
+[29-Jan-2014 17:46:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:07] CSRF state token does not match one provided.
+[29-Jan-2014 17:46:31] OAuthException
+[29-Jan-2014 17:46:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:33] OAuthException
+[29-Jan-2014 17:46:33] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:43] OAuthException
+[29-Jan-2014 17:46:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:46:52] CSRF state token does not match one provided.
+[29-Jan-2014 17:46:58] OAuthException
+[29-Jan-2014 17:46:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:17] OAuthException
+[29-Jan-2014 17:47:17] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:20] OAuthException
+[29-Jan-2014 17:47:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:27] OAuthException
+[29-Jan-2014 17:47:27] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:38] OAuthException
+[29-Jan-2014 17:47:38] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:43] OAuthException
+[29-Jan-2014 17:47:43] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:44] CSRF state token does not match one provided.
+[29-Jan-2014 17:47:45] OAuthException
+[29-Jan-2014 17:47:45] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:50] OAuthException
+[29-Jan-2014 17:47:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:52] CSRF state token does not match one provided.
+[29-Jan-2014 17:47:53] OAuthException
+[29-Jan-2014 17:47:53] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:56] OAuthException
+[29-Jan-2014 17:47:56] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:47:56] OAuthException
+[29-Jan-2014 17:47:56] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:48:01] OAuthException
+[29-Jan-2014 17:48:01] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:48:02] OAuthException
+[29-Jan-2014 17:48:02] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:48:21] OAuthException
+[29-Jan-2014 17:48:21] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:48:28] CSRF state token does not match one provided.
+[29-Jan-2014 17:48:29] OAuthException
+[29-Jan-2014 17:48:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:49:08] OAuthException
+[29-Jan-2014 17:49:08] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:49:39] OAuthException
+[29-Jan-2014 17:49:39] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:49:44] OAuthException
+[29-Jan-2014 17:49:44] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:49:57] OAuthException
+[29-Jan-2014 17:49:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:50:15] OAuthException
+[29-Jan-2014 17:50:15] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:54:50] OAuthException
+[29-Jan-2014 17:54:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:55:12] OAuthException
+[29-Jan-2014 17:55:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:56:19] OAuthException
+[29-Jan-2014 17:56:19] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:57:37] OAuthException
+[29-Jan-2014 17:57:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:57:48] OAuthException
+[29-Jan-2014 17:57:48] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:58:29] OAuthException
+[29-Jan-2014 17:58:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 17:58:50] OAuthException
+[29-Jan-2014 17:58:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:00:07] OAuthException
+[29-Jan-2014 18:00:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:00:23] OAuthException
+[29-Jan-2014 18:00:23] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:01:08] CSRF state token does not match one provided.
+[29-Jan-2014 18:01:08] OAuthException
+[29-Jan-2014 18:01:08] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:01:25] CSRF state token does not match one provided.
+[29-Jan-2014 18:01:26] OAuthException
+[29-Jan-2014 18:01:26] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:02:35] OAuthException
+[29-Jan-2014 18:02:35] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:02:40] OAuthException
+[29-Jan-2014 18:02:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:02:56] CSRF state token does not match one provided.
+[29-Jan-2014 18:02:57] OAuthException
+[29-Jan-2014 18:02:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:03:05] CSRF state token does not match one provided.
+[29-Jan-2014 18:03:14] OAuthException
+[29-Jan-2014 18:03:14] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:03:34] OAuthException
+[29-Jan-2014 18:03:34] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:03:36] OAuthException
+[29-Jan-2014 18:03:36] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:03:42] OAuthException
+[29-Jan-2014 18:03:42] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:03:47] OAuthException
+[29-Jan-2014 18:03:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:00] OAuthException
+[29-Jan-2014 18:04:00] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:03] OAuthException
+[29-Jan-2014 18:04:03] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:05] OAuthException
+[29-Jan-2014 18:04:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:07] OAuthException
+[29-Jan-2014 18:04:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:36] OAuthException
+[29-Jan-2014 18:04:36] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:40] OAuthException
+[29-Jan-2014 18:04:40] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:04:51] OAuthException
+[29-Jan-2014 18:04:51] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:05:58] OAuthException
+[29-Jan-2014 18:05:58] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:06:04] OAuthException
+[29-Jan-2014 18:06:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:11:03] OAuthException
+[29-Jan-2014 18:11:03] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:11:23] OAuthException
+[29-Jan-2014 18:11:23] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:11:31] OAuthException
+[29-Jan-2014 18:11:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:11:50] OAuthException
+[29-Jan-2014 18:11:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:12:04] OAuthException
+[29-Jan-2014 18:12:04] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:12:23] OAuthException
+[29-Jan-2014 18:12:23] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:12:55] OAuthException
+[29-Jan-2014 18:12:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:13:11] OAuthException
+[29-Jan-2014 18:13:11] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:13:26] OAuthException
+[29-Jan-2014 18:13:26] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:13:39] OAuthException
+[29-Jan-2014 18:13:39] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:14:14] OAuthException
+[29-Jan-2014 18:14:14] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:17:29] OAuthException
+[29-Jan-2014 18:17:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:17:31] OAuthException
+[29-Jan-2014 18:17:31] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:17:48] OAuthException
+[29-Jan-2014 18:17:48] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:17:57] OAuthException
+[29-Jan-2014 18:17:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:18:29] OAuthException
+[29-Jan-2014 18:18:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:19:32] OAuthException
+[29-Jan-2014 18:19:32] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:21:54] OAuthException
+[29-Jan-2014 18:21:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:23:57] OAuthException
+[29-Jan-2014 18:23:57] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:25:29] OAuthException
+[29-Jan-2014 18:25:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:26:10] OAuthException
+[29-Jan-2014 18:26:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:28:30] OAuthException
+[29-Jan-2014 18:28:30] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:28:37] OAuthException
+[29-Jan-2014 18:28:37] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:28:42] OAuthException
+[29-Jan-2014 18:28:42] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:28:47] OAuthException
+[29-Jan-2014 18:28:47] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:28:55] OAuthException
+[29-Jan-2014 18:28:55] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:30:48] OAuthException
+[29-Jan-2014 18:30:48] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:31:08] OAuthException
+[29-Jan-2014 18:31:08] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:31:14] OAuthException
+[29-Jan-2014 18:31:14] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:31:22] OAuthException
+[29-Jan-2014 18:31:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:31:28] OAuthException
+[29-Jan-2014 18:31:28] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:32:05] OAuthException
+[29-Jan-2014 18:32:05] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:33:20] OAuthException
+[29-Jan-2014 18:33:20] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 18:33:29] OAuthException
+[29-Jan-2014 18:33:29] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:07:54] OAuthException
+[29-Jan-2014 19:07:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:08:44] OAuthException
+[29-Jan-2014 19:08:44] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:09:00] OAuthException
+[29-Jan-2014 19:09:00] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:09:12] OAuthException
+[29-Jan-2014 19:09:12] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:10:47] CSRF state token does not match one provided.
+[29-Jan-2014 19:10:54] OAuthException
+[29-Jan-2014 19:10:54] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:19:22] OAuthException
+[29-Jan-2014 19:19:22] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:19:26] OAuthException
+[29-Jan-2014 19:19:26] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:19:51] OAuthException
+[29-Jan-2014 19:19:51] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:24:50] OAuthException
+[29-Jan-2014 19:24:50] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:25:06] OAuthException
+[29-Jan-2014 19:25:06] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:27:25] OAuthException
+[29-Jan-2014 19:27:25] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:30:27] OAuthException
+[29-Jan-2014 19:30:27] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:30:48] OAuthException
+[29-Jan-2014 19:30:48] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:30:56] OAuthException
+[29-Jan-2014 19:30:56] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:02] OAuthException
+[29-Jan-2014 19:31:02] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:07] OAuthException
+[29-Jan-2014 19:31:07] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:10] OAuthException
+[29-Jan-2014 19:31:10] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:24] OAuthException
+[29-Jan-2014 19:31:24] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:32] OAuthException
+[29-Jan-2014 19:31:32] (#200) Feed story publishing is disabled for this application.
+[29-Jan-2014 19:31:36] OAuthException
+[29-Jan-2014 19:31:36] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:52:13] OAuthException
+[30-Jan-2014 02:52:13] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:52:27] OAuthException
+[30-Jan-2014 02:52:27] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:53:48] CSRF state token does not match one provided.
+[30-Jan-2014 02:53:49] OAuthException
+[30-Jan-2014 02:53:49] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:54:19] OAuthException
+[30-Jan-2014 02:54:19] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:54:37] OAuthException
+[30-Jan-2014 02:54:37] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 02:56:13] OAuthException
+[30-Jan-2014 02:56:13] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:00:40] OAuthException
+[30-Jan-2014 03:00:40] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:00:45] OAuthException
+[30-Jan-2014 03:00:45] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:00:59] OAuthException
+[30-Jan-2014 03:00:59] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:08:51] OAuthException
+[30-Jan-2014 03:08:51] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:22:23] OAuthException
+[30-Jan-2014 03:22:23] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:22:24] OAuthException
+[30-Jan-2014 03:22:24] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 03:41:04] CSRF state token does not match one provided.
+[30-Jan-2014 03:43:25] CSRF state token does not match one provided.
+[30-Jan-2014 03:43:42] OAuthException
+[30-Jan-2014 03:43:42] Error validating access token: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
+[30-Jan-2014 04:58:38] CSRF state token does not match one provided.
+[30-Jan-2014 04:58:43] CSRF state token does not match one provided.
+[30-Jan-2014 07:49:48] CSRF state token does not match one provided.
+[30-Jan-2014 08:33:34] CSRF state token does not match one provided.
+[30-Jan-2014 09:07:30] CSRF state token does not match one provided.
+[30-Jan-2014 10:09:26] CSRF state token does not match one provided.
+[30-Jan-2014 12:53:00] CSRF state token does not match one provided.
+[30-Jan-2014 13:28:23] OAuthException
+[30-Jan-2014 13:28:23] (#200) The user hasn't authorized the application to perform this action
+[30-Jan-2014 13:28:31] OAuthException
+[30-Jan-2014 13:28:31] (#200) The user hasn't authorized the application to perform this action
+[30-Jan-2014 13:30:21] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:24] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:26] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:29] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:31] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:33] CSRF state token does not match one provided.
+[30-Jan-2014 13:30:36] CSRF state token does not match one provided.
+[30-Jan-2014 14:38:21] CSRF state token does not match one provided.
+[30-Jan-2014 14:42:12] OAuthException
+[30-Jan-2014 14:42:12] (#200) The user hasn't authorized the application to perform this action
+[30-Jan-2014 14:48:06] CSRF state token does not match one provided.
+[30-Jan-2014 14:55:20] CSRF state token does not match one provided.
+[30-Jan-2014 14:55:35] CSRF state token does not match one provided.
+[30-Jan-2014 14:55:48] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:04] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:20] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:28] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:42] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:49] CSRF state token does not match one provided.
+[30-Jan-2014 14:56:53] CSRF state token does not match one provided.
+[30-Jan-2014 15:00:44] CSRF state token does not match one provided.
+[30-Jan-2014 15:01:50] CSRF state token does not match one provided.
+[30-Jan-2014 15:39:31] CSRF state token does not match one provided.
+[30-Jan-2014 15:58:13] CSRF state token does not match one provided.
+[30-Jan-2014 16:06:11] CSRF state token does not match one provided.
+[30-Jan-2014 17:06:00] CSRF state token does not match one provided.
+[30-Jan-2014 17:06:17] CSRF state token does not match one provided.
+[30-Jan-2014 17:37:40] OAuthException
+[30-Jan-2014 17:37:40] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 17:37:58] OAuthException
+[30-Jan-2014 17:37:58] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 17:50:25] OAuthException
+[30-Jan-2014 17:50:25] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 17:50:37] OAuthException
+[30-Jan-2014 17:50:37] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 17:51:16] OAuthException
+[30-Jan-2014 17:51:16] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:06:59] OAuthException
+[30-Jan-2014 18:06:59] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:07:36] OAuthException
+[30-Jan-2014 18:07:36] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:10:34] OAuthException
+[30-Jan-2014 18:10:34] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:10:43] OAuthException
+[30-Jan-2014 18:10:43] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:10:57] OAuthException
+[30-Jan-2014 18:10:57] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:11:00] CSRF state token does not match one provided.
+[30-Jan-2014 18:11:01] OAuthException
+[30-Jan-2014 18:11:01] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:13:10] OAuthException
+[30-Jan-2014 18:13:10] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:13:18] OAuthException
+[30-Jan-2014 18:13:18] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:29:40] OAuthException
+[30-Jan-2014 18:29:40] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:29:48] OAuthException
+[30-Jan-2014 18:29:48] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:48:22] OAuthException
+[30-Jan-2014 18:48:22] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:48:22] CSRF state token does not match one provided.
+[30-Jan-2014 18:48:23] OAuthException
+[30-Jan-2014 18:48:23] (#200) Feed story publishing is disabled for this application.
+[30-Jan-2014 18:52:44] CSRF state token does not match one provided.
+[30-Jan-2014 18:54:43] CSRF state token does not match one provided.
+[30-Jan-2014 19:22:55] CSRF state token does not match one provided.

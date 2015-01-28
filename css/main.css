@@ -1,0 +1,31 @@
+/* 
+    Document   : main
+    Created on : Jan 23, 2014, 8:54:45 AM
+    Author     : namit
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);
+*{font-family: 'Montserrat Alternates',sans-serif;}
+
+root { 
+    display: block;
+}
+body{
+    background: url('../img/content.jpg') no-repeat 0 0;
+    background-size: 100%;
+    background-color: rgb(245, 233, 174) !important;
+    overflow: hidden;
+
+
+}
+.sidebar{
+    position: fixed;
+    right: 0px;
+    width: 200px;
+    height: 100%;
+    top: 52px;
+    padding: 20px;
+    
+}
